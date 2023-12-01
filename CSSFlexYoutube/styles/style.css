@@ -12,6 +12,7 @@
     display: flex;
     flex-wrap: wrap;
     gap: 2em;
+    align-items: flex-start;
 }
 .ytv__bottom {
     display: flex;
